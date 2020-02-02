@@ -1,37 +1,43 @@
-## Welcome to GitHub Pages
+## Yamd - Privacy Policy
 
-You can use the [editor on GitHub](https://github.com/cog1to/react-native-mpd-landing/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Alexander Rogachev built the Yamd app as a Commercial app. This SERVICE is provided by Alexander Rogachev and is intended for use as is.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
-### Markdown
+If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at Yamd unless otherwise defined in this Privacy Policy.
 
-```markdown
-Syntax highlighted code block
+### Information Collection and Use
 
-# Header 1
-## Header 2
-### Header 3
+The app does not collect any information about users or their devices.
 
-- Bulleted
-- List
+### Log Data
 
-1. Numbered
-2. List
+I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
 
-**Bold** and _Italic_ and `Code` text
+### Cookies
 
-[Link](url) and ![Image](src)
-```
+Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+This Service does not use these “cookies” explicitly.
 
-### Jekyll Themes
+### Service Providers
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cog1to/react-native-mpd-landing/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+This app uses third-party public APIs to provide a better user experience. We use Discogs for album art retrieval, and Last.fm for artist/performer art retrieval. Both services are used legally with registered API client access. The app doesn't collect or transfer any personally identifiable data from device to these services.
 
-### Support or Contact
+### Security
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
+
+### Children’s Privacy
+
+These Services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13.
+
+### Changes to This Privacy Policy
+
+I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.
+
+### Contact Us
+
+If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at sorryforbadname@gmail.com.
