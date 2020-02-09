@@ -24,7 +24,7 @@ This Service does not use these “cookies” explicitly.
 
 ### Service Providers
 
-This app uses third-party public APIs to provide a better user experience. We use Discogs for album art retrieval, and Last.fm for artist/performer art retrieval. Both services are used legally with registered API client access. The app doesn't collect or transfer any personally identifiable data from device to these services.
+This app uses third-party public APIs to provide a better user experience. We use Discogs for artist art retrieval, and Last.fm for album cover art retrieval. Both services are used legally with registered API client access. The app doesn't collect or transfer any personally identifiable data from device to these services.
 
 ### Security
 
