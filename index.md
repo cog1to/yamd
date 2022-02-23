@@ -40,4 +40,6 @@ I may update our Privacy Policy from time to time. Thus, you are advised to revi
 
 ### Contact Us
 
+For any issues found or feature requests, you can create a new issue on [project's Github page](https://github.com/cog1to/react-native-mpd/issues).
+
 If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at sorryforbadname@gmail.com.
